@@ -1,5 +1,5 @@
 spring.datasource.driver-class-name=org.postgresql.Driver
 spring.datasource.url=jdbc:postgresql://localhost/examen
 spring.datasource.username=postgres
-spring.datasource.password=adminsss
+spring.datasource.password=admin
 gateway.url=http://127.0.0.1:9090
